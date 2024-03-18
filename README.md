@@ -24,6 +24,6 @@ Use the `Push_swap.pdf` to get started.
    ```
 2. Makefile
    ```js
-   make
+   cd Push_Swap && make
    ```
 
