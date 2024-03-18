@@ -11,7 +11,8 @@ the lowest possible number of actions. To succeed you’ll have to manipulate va
 Use the `Push_swap.pdf` to get started.
 
 
-<img width="597" alt="212369245-54455057-43d9-42c5-a916-a825ff505813" src="https://github.com/Hisham042/Push_Swap/assets/155056739/3eb9cee6-106d-4879-9a80-71a040d2c49f">
+<img width="597" alt="212369245-54455057-43d9-42c5-a916-a825ff505813" src="https://github.com/HishamEltayb/Push_Swap/assets/138756079/c95fc579-c90c-4bc1-802a-1e003393dd96">
+
 
 
 
