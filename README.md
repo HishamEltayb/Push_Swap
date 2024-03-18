@@ -21,7 +21,7 @@ Use the `Push_swap.pdf` to get started.
 
 1. Clone the repo
    ```sh
-   git clone git@github.com:HishamEltayb/Push_Swap.git
+   git clone https://github.com/HishamEltayb/Push_Swap.git
    ```
 2. Makefile
    ```js
