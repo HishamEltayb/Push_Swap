@@ -54,23 +54,23 @@ static int	is_space(char c)
 
 void	check_all_spaces(char **av, int ac)
 {
-	int	i;
-	int	j;
-	int	k;
+	int	word;
+	int	letter;
+	int	space_counter;
 
-	i = 1;
-	while (av[i] && i < ac)
+	word = 1;
+	while (av[word] && word < ac)
 	{
-		j = 0;
-		k = 0;
-		while (av[i][j])
+		letter = 0;
+		space_counter = 0;
+		while (av[word][letter])
 		{
-			if (is_space(av[i][j]))
-				k++;
-			j++;
+			if (is_space(av[word][letter]))
+				space_counter++;
+			letter++;
 		}
-		if (k == j)
+		if (space_counter == letter)
 			error();
-		i++;
+		word++;
 	}
 }
